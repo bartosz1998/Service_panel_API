@@ -1,10 +1,12 @@
 package com.example.Service.panel.API.model;
 
 import jakarta.persistence.*;
+import lombok.*;
 
 import java.time.LocalDate;
 @Entity
 @Table
+@NoArgsConstructor
 public class Student {
 
     @Id
