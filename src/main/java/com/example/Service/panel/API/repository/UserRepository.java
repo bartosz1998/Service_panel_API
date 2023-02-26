@@ -1,5 +1,6 @@
-package com.example.Service.panel.API.security.user;
+package com.example.Service.panel.API.repository;
 
+import com.example.Service.panel.API.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

@@ -1,6 +1,6 @@
 package com.example.Service.panel.API.config;
 
-import com.example.Service.panel.API.security.user.UserRepository;
+import com.example.Service.panel.API.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

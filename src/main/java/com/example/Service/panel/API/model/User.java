@@ -1,6 +1,7 @@
-package com.example.Service.panel.API.security.user;
+package com.example.Service.panel.API.model;
 
 
+import com.example.Service.panel.API.model.enumeration.Role;
 import com.example.Service.panel.API.security.token.Token;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

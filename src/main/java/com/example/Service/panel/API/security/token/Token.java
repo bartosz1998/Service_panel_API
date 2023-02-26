@@ -1,6 +1,6 @@
 package com.example.Service.panel.API.security.token;
 
-import com.example.Service.panel.API.security.user.User;
+import com.example.Service.panel.API.model.User;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
